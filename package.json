@@ -1,0 +1,12 @@
+{
+  "name": "webpack-dev-lunch-demo",
+  "version": "1.0.0",
+  "description": "idfive developer lunch Webpack Sandbox",
+  "main": "index.js",
+  "author": "Steven Stephenson",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.8.2"
+  }
+}

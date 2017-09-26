@@ -1,0 +1,26 @@
+html {
+	font-family: sans-serif;
+	line-height: 1.4;
+}
+
+body {
+	background: goldenrod;
+	color: #333;
+}
+
+header {
+	text-align: center;
+}
+
+.main {
+	max-width: 1000px;
+	margin: auto;
+	padding: 3em;
+	background: white;
+}
+
+.footer {
+	padding: 2em 0;
+	text-align: center;
+	font-size: 0.75em;
+}
